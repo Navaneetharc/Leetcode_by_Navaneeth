@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0268-missing-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1899-count-items-matching-a-rule](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1899-count-items-matching-a-rule) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0268-missing-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
@@ -22,9 +24,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0268-missing-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0268-missing-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0748-largest-number-at-least-twice-of-others) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

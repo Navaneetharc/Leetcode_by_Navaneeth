@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0268-missing-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1899-count-items-matching-a-rule](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1899-count-items-matching-a-rule) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2442-number-of-arithmetic-triplets) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0268-missing-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1448-maximum-69-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3515-find-if-digit-game-can-be-won) |

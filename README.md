@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1899-count-items-matching-a-rule) |
 | [2365-percentage-of-letter-in-string](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2365-percentage-of-letter-in-string) |
 | [2881-split-strings-by-separator](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2881-split-strings-by-separator) |
+| [3379-score-of-a-string](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3379-score-of-a-string) |
 | [3636-check-balanced-string](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3636-check-balanced-string) |
 ## Hash Table
 |  |

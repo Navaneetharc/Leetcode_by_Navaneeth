@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0414-third-maximum-number) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0268-missing-number) |
 | [1319-unique-number-of-occurrences](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1319-unique-number-of-occurrences) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2442-number-of-arithmetic-triplets) |

@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2756-buy-two-chocolates) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2881-split-strings-by-separator](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2881-split-strings-by-separator) |
+| [3194-find-words-containing-character](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3226-minimum-number-game) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2365-percentage-of-letter-in-string) |
 | [2881-split-strings-by-separator](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2881-split-strings-by-separator) |
+| [3194-find-words-containing-character](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3379-score-of-a-string) |
 | [3636-check-balanced-string](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3636-check-balanced-string) |
 ## Hash Table

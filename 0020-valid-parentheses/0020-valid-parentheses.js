@@ -3,25 +3,19 @@
  * @return {boolean}
  */
 var isValid = function(s) {
+    let stack = []
 
-    let arr = []
-
-    for(let i=0;i<s.length;i+=2){
-        if(s[i]==='(' && s[i+1] === ')'){
-            arr.push(1)
-        }else if(s[i]==='[' && s[i+1] === ']'){
-            arr.push(1)
-        }else if(s[i]==='{' && s[i+1] === '}'){
-            arr.push(1)
+    for(const char of s){
+        if(char === '(' || char === '[' || char === '{'){
+            stack.push(char)
         }else{
-            arr.push(0)
-        }        
+            let last = stack.pop();
+            if(char === ')' && last != '(' ||
+                char === ']' && last != '[' ||
+                char === '}' && last != '{'){
+                    return false
+                }
+        }
     }
-
-    if(!arr.includes(0)){
-        return true
-    }else{
-        return true
-    }
-    
+    return stack.length === 0
 };

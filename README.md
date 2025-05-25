@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1899-count-items-matching-a-rule](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1899-count-items-matching-a-rule) |
+| [1944-truncate-sentence](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1944-truncate-sentence) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2442-number-of-arithmetic-triplets) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2756-buy-two-chocolates](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2756-buy-two-chocolates) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0242-valid-anagram) |
 | [1899-count-items-matching-a-rule](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1899-count-items-matching-a-rule) |
+| [1944-truncate-sentence](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1944-truncate-sentence) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2365-percentage-of-letter-in-string) |
 | [2881-split-strings-by-separator](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2881-split-strings-by-separator) |

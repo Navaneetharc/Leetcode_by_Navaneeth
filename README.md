@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1899-count-items-matching-a-rule](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1944-truncate-sentence) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0242-valid-anagram) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1899-count-items-matching-a-rule](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1944-truncate-sentence) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0268-missing-number) |
 | [1319-unique-number-of-occurrences](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1319-unique-number-of-occurrences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2442-number-of-arithmetic-triplets) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0338-counting-bits) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -116,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Number Theory
 |  |
 | ------- |

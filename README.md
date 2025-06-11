@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1635-number-of-good-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0338-counting-bits) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Two Pointers
 |  |

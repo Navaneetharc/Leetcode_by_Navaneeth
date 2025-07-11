@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0387-first-unique-character-in-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1899-count-items-matching-a-rule](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1944-truncate-sentence) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0387-first-unique-character-in-a-string) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0387-first-unique-character-in-a-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -159,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0206-reverse-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

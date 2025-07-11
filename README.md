@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0088-merge-sorted-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0908-middle-of-the-linked-list) |

@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1236-n-th-tribonacci-number) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0338-counting-bits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1013-fibonacci-number) |
 ## Queue
 |  |

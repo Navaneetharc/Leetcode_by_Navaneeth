@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0414-third-maximum-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0338-counting-bits) |

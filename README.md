@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0414-third-maximum-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0792-binary-search](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0792-binary-search) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |

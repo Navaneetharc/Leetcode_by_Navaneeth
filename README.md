@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1635-number-of-good-pairs) |
+| [1806-count-of-matches-in-tournament](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1806-count-of-matches-in-tournament) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0898-transpose-matrix) |
+| [1806-count-of-matches-in-tournament](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1806-count-of-matches-in-tournament) |
 | [3226-minimum-number-game](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3226-minimum-number-game) |
 ## Dynamic Programming
 |  |

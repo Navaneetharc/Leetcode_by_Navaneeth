@@ -16,12 +16,5 @@ var maxProduct = function(nums) {
         }
         if(!swapped) break;
     }
-    let maxVal1 = (nums[0]-1) * (nums[1]-1);
-    let maxVal2 = (nums[1]-1) * (nums[0]-1);
-    
-    if(maxVal1<maxVal2){
-        return maxVal2;
-    }else{
-        return maxVal1;
-    }
+   return (nums[0]-1) * (nums[1]-1)
 };

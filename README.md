@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0837-most-common-word) |
+| [0860-design-circular-queue](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0860-design-circular-queue) |
 | [0898-transpose-matrix](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0948-sort-an-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0206-reverse-linked-list) |
+| [0860-design-circular-queue](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0387-first-unique-character-in-a-string) |
+| [0860-design-circular-queue](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0860-design-circular-queue) |
 ## Memoization
 |  |
 | ------- |
@@ -243,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0948-sort-an-array) |
+## Design
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->

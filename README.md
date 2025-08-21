@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0561-array-partition) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0451-sort-characters-by-frequency) |
 | [0837-most-common-word](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0837-most-common-word) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0561-array-partition) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
@@ -137,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2231-find-first-palindromic-string-in-the-array) |

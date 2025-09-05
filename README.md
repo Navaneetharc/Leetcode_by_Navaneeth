@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1944-truncate-sentence) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2442-number-of-arithmetic-triplets) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |

@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1656-count-good-triplets) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1899-count-items-matching-a-rule](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1899-count-items-matching-a-rule) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1944-truncate-sentence](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1944-truncate-sentence) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0561-array-partition) |
 | [0890-lemonade-change](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0890-lemonade-change) |
 | [1448-maximum-69-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1448-maximum-69-number) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2756-buy-two-chocolates](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2756-buy-two-chocolates) |
 ## Heap (Priority Queue)
 |  |

@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2365-percentage-of-letter-in-string) |
+| [2372-rearrange-characters-to-make-target-string](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2881-split-strings-by-separator](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2881-split-strings-by-separator) |
 | [3194-find-words-containing-character](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3379-score-of-a-string) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2372-rearrange-characters-to-make-target-string](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2442-number-of-arithmetic-triplets) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2372-rearrange-characters-to-make-target-string](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2372-rearrange-characters-to-make-target-string) |
 ## Number Theory
 |  |
 | ------- |

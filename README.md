@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1806-count-of-matches-in-tournament) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2496-count-days-spent-together](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2496-count-days-spent-together) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2365-percentage-of-letter-in-string) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2372-rearrange-characters-to-make-target-string) |
+| [2496-count-days-spent-together](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2496-count-days-spent-together) |
 | [2881-split-strings-by-separator](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2881-split-strings-by-separator) |
 | [3194-find-words-containing-character](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3379-score-of-a-string) |

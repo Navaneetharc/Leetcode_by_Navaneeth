@@ -3,22 +3,11 @@
  * @return {string}
  */
 var largestGoodInteger = function(num) {
-    let dum = [];
-    for(let i=0;i<num.length;i++){
-        let res = '';
-        if(num[i] == num[i+1] && num[i] == num[i+2]){
-            res += num[i]+num[i+1]+num[i+2];
-            dum.push(res);
+    let vals = ['999','888','777','666','555','444','333','222','111','000'];
+    for(let val of vals){
+        if(num.includes(val)){
+            return val;
         }
     }
-    if(dum.length === 0) return ""
-    let large = -Infinity;
-    for(let d of dum){
-        if(d > large){
-            large = d;
-        }
-    }
-    console.log(dum);
-    console.log(large);
-    return large;
+    return '';
 };

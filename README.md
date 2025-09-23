@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0948-sort-an-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1039-find-the-town-judge](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1039-find-the-town-judge) |
 | [1319-unique-number-of-occurrences](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0451-sort-characters-by-frequency) |
 | [0837-most-common-word](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0837-most-common-word) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1039-find-the-town-judge](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1039-find-the-town-judge) |
 | [1319-unique-number-of-occurrences](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -280,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0860-design-circular-queue](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0860-design-circular-queue) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->

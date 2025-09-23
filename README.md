@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2756-buy-two-chocolates) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2881-split-strings-by-separator](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2881-split-strings-by-separator) |
+| [2892-check-if-array-is-good](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2892-check-if-array-is-good) |
 | [3194-find-words-containing-character](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3226-minimum-number-game) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2442-number-of-arithmetic-triplets) |
+| [2892-check-if-array-is-good](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2892-check-if-array-is-good) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2756-buy-two-chocolates](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2756-buy-two-chocolates) |
+| [2892-check-if-array-is-good](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2892-check-if-array-is-good) |
 | [3226-minimum-number-game](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3226-minimum-number-game) |
 ## Binary Search
 |  |

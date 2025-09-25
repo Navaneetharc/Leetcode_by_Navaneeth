@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0136-single-number) |
+| [0200-number-of-islands](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0283-move-zeroes) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0898-transpose-matrix](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0898-transpose-matrix) |
 ## Divide and Conquer
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0676-implement-magic-dictionary](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0676-implement-magic-dictionary) |
 ## Breadth-First Search
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -350,4 +354,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0208-implement-trie-prefix-tree) |
 | [0648-replace-words](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0676-implement-magic-dictionary) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->

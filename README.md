@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0207-course-schedule) |
 | [1039-find-the-town-judge](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1039-find-the-town-judge) |
 ## Tree
 |  |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0676-implement-magic-dictionary](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0676-implement-magic-dictionary) |
 ## Breadth-First Search
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0207-course-schedule) |
 ## Binary Tree
 |  |
 | ------- |
@@ -362,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0200-number-of-islands) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->

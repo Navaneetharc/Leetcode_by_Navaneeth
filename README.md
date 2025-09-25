@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0451-sort-characters-by-frequency) |
 | [0551-student-attendance-record-i](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0551-student-attendance-record-i) |
+| [0676-implement-magic-dictionary](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0676-implement-magic-dictionary) |
 | [0837-most-common-word](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0837-most-common-word) |
 | [1205-defanging-an-ip-address](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1205-defanging-an-ip-address) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0451-sort-characters-by-frequency) |
+| [0676-implement-magic-dictionary](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0676-implement-magic-dictionary) |
 | [0837-most-common-word](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0837-most-common-word) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1039-find-the-town-judge](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1039-find-the-town-judge) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0208-implement-trie-prefix-tree) |
+| [0676-implement-magic-dictionary](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0676-implement-magic-dictionary) |
 | [0860-design-circular-queue](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0860-design-circular-queue) |
 ## Graph
 |  |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0676-implement-magic-dictionary](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0676-implement-magic-dictionary) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -341,4 +345,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0208-implement-trie-prefix-tree) |
+| [0676-implement-magic-dictionary](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0676-implement-magic-dictionary) |
 <!---LeetCode Topics End-->

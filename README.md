@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0020-valid-parentheses) |
+| [0208-implement-trie-prefix-tree](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0387-first-unique-character-in-a-string) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0141-linked-list-cycle) |
+| [0208-implement-trie-prefix-tree](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0208-implement-trie-prefix-tree) |
 | [0860-design-circular-queue](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0860-design-circular-queue) |
 ## Graph
 |  |
@@ -334,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0215-kth-largest-element-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->

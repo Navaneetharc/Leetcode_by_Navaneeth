@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0136-single-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0948-sort-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -319,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0784-insert-into-a-binary-search-tree) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->

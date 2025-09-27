@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0451-sort-characters-by-frequency) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1127-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0208-implement-trie-prefix-tree) |
 | [0676-implement-magic-dictionary](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0676-implement-magic-dictionary) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0860-design-circular-queue](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0860-design-circular-queue) |
 ## Graph
 |  |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -345,12 +348,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Quickselect
 |  |
 | ------- |
@@ -369,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0207-course-schedule) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->

@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2844-sum-of-squares-of-special-elements](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2881-split-strings-by-separator](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2881-split-strings-by-separator) |
 | [2892-check-if-array-is-good](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2892-check-if-array-is-good) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3227-find-missing-and-repeated-values) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2756-buy-two-chocolates](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2756-buy-two-chocolates) |
 | [2892-check-if-array-is-good](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2892-check-if-array-is-good) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3226-minimum-number-game) |
 ## Binary Search
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2442-number-of-arithmetic-triplets) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Enumeration
 |  |
 | ------- |

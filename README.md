@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0200-number-of-islands) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0242-valid-anagram) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0283-move-zeroes) |

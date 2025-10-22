@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0837-most-common-word) |
 | [1205-defanging-an-ip-address](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1899-count-items-matching-a-rule](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1899-count-items-matching-a-rule) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |

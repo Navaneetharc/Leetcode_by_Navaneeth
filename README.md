@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0676-implement-magic-dictionary](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0676-implement-magic-dictionary) |
 | [0837-most-common-word](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0837-most-common-word) |
 | [1205-defanging-an-ip-address](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1205-defanging-an-ip-address) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1899-count-items-matching-a-rule](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1899-count-items-matching-a-rule) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0561-array-partition) |
 | [0890-lemonade-change](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0890-lemonade-change) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1448-maximum-69-number) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2756-buy-two-chocolates](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2756-buy-two-chocolates) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0561-array-partition) |
 | [0837-most-common-word](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0837-most-common-word) |
 | [0948-sort-an-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0948-sort-an-array) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1786-count-the-number-of-consistent-strings) |

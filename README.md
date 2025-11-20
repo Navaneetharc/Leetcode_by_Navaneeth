@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0035-search-insert-position) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0020-valid-parentheses) |
 | [0208-implement-trie-prefix-tree](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0242-valid-anagram) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0208-implement-trie-prefix-tree) |
 | [0648-replace-words](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0676-implement-magic-dictionary) |

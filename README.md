@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0451-sort-characters-by-frequency) |
 | [0551-student-attendance-record-i](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0551-student-attendance-record-i) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1468-check-if-n-and-its-double-exist) |

@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1534-count-good-triplets](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1534-count-good-triplets) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1656-count-good-triplets) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1534-count-good-triplets) |
 | [1656-count-good-triplets](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/1656-count-good-triplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2442-number-of-arithmetic-triplets) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2844-sum-of-squares-of-special-elements) |

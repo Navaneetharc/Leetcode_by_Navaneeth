@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3227-find-missing-and-repeated-values) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3697-compute-decimal-representation](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3697-compute-decimal-representation) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## String

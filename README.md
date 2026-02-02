@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0561-array-partition) |
+| [0643-maximum-average-subarray-i](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0648-replace-words) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0792-binary-search) |
@@ -420,4 +421,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0789-kth-largest-element-in-a-stream) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->

@@ -3,11 +3,24 @@
  * @return {number}
  */
 var firstUniqChar = function(s) {
-      for (let i = 0; i < s.length; i++) {
-        let char = s[i];
-        if (s.indexOf(char) === s.lastIndexOf(char)) {
-            return i;
+    let str = s.split('');
+    let freq = {};
+    let arr = [];
+
+    for(let elem of str){
+        freq[elem] = (freq[elem] || 0) + 1;
+    }
+    
+    for(let ele in freq){
+        if(freq[ele] === 1){
+            arr.push(ele);
         }
     }
-    return -1
+
+    for(let i=0;i<str.length;i++){
+        if(arr.includes(str[i])) return i;
+    }
+
+    return -1;
+  
 };

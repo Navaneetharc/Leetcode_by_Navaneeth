@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3227-find-missing-and-repeated-values) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3227-find-missing-and-repeated-values) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2442-number-of-arithmetic-triplets) |
 | [2892-check-if-array-is-good](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/2892-check-if-array-is-good) |
 | [3227-find-missing-and-repeated-values](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3227-find-missing-and-repeated-values) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Navaneetharc/Leetcode_by_Navaneeth/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Sorting

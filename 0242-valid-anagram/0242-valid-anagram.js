@@ -6,10 +6,15 @@
 var isAnagram = function(s, t) {
     if(s.length !== t.length) return false;
 
-    let S = s.split('').sort().join('');
-    let T = t.split('').sort().join('');
-    
-    console.log(S);
-    console.log(T);
-    return S === T;
+    let count = {};
+
+    for(let char of s){
+        count[char] = (count[char] || 0) + 1;
+    }
+    for(let char of t){
+        if(!count[char]) return false;
+        count[char]--;
+    }
+
+    return true;
 };
